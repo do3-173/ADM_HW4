@@ -6,15 +6,14 @@ This comprehensive homework assignment dives into the fascinating world of recom
 Memebers of the Group 5:
 - Arman Feili: <armanfeili7@gmail.com>, [GitHub](https://github.com/armanfeili)
 - Livia Oddi: <oddi.184685@studenti.uniroma1.it>, [GitHub](https://github.com/Livia020799)
-- Ahmad Saad: <Ahmad.saaddm@gmail.com>, [GitHub](https://github.com/Ahmadsaaddm)
+- Ahmad Saad: <ahmad.saaddm@gmail.com>, [GitHub](https://github.com/Ahmadsaaddm)
 - Edo Fejzic: <edo.fejzic@hotmail.com>, [GitHub](https://github.com/do3-173)
 
 ## Project Structure
 
 Here is an overview of the main files in this project repository:
-
+- `.gitignore`: Specifies intentionally untracked files to ignore.
 - `main.ipynb`: Main Jupyter notebook for in-depth data analysis.
 - `README.md`: This file, containing detailed information about the project.
-- `CLQ`: Folder containing commandline items
-    - `commandline.sh`: Command-line script for the command-line question
-    - `CLQ-screenshot.png`: Screenshot of running command-line scripy
+- `commandline.sh`: Command-line script for the command-line question
+- `CLQ-screenshot.png`: Screenshot of running command-line scripy
