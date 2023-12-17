@@ -1,4 +1,4 @@
-# ADM_HW4
+# ADM_HW4: Recommendation systems and clustering everywhere
 
 This comprehensive homework assignment dives into the fascinating world of recommendation systems and user clustering, particularly focusing on Netflix's UK audience. It is an excellent opportunity to apply various data science techniques to real-world scenarios, enabling you to gain practical insights into user behavior and preferences on a popular streaming platform.
 
